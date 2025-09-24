@@ -16,7 +16,6 @@ Matplotlib – Data visualization
 Seaborn – Advanced visualizations & statistical plots
 
 📊 Key Analysis Performed
-
 Customer demographics (Age, Gender, Marital Status, State)
 Purchasing power and spending habits
 Product category-wise sales analysis
